@@ -1,0 +1,7 @@
+# Python ENV
+.env
+
+# Verilog binaries
+*.bin
+*.blif
+*.asc
